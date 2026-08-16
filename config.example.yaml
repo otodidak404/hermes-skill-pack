@@ -1,0 +1,13 @@
+# Hermes Skill Pack — example config snippet
+
+# Tambahkan block ini ke ~/.hermes/config.yaml
+# Setelah itu restart sesi (/reset atau sesi baru) — skill langsung aktif.
+
+auto_load_skills:
+  - skill-audit
+  - skill-management
+  - skill-anti-duplicate
+  - skill-auto-organize
+  - skill-strengthen
+  - skill-auto-create
+  - skill-soul-loader
