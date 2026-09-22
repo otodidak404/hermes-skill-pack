@@ -19,7 +19,7 @@ skills/
 ## 🚀 Install
 
 ```bash
-git clone https://github.com/febfrmn/hermes-skill-pack.git
+git clone https://github.com/otodidak404/hermes-skill-pack.git
 cd hermes-skill-pack
 ./install.sh
 ```
